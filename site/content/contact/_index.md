@@ -2,8 +2,6 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "7th Circle of Hell, just below Satan's Sack"
   - heading: Working hours
     text: "Monday – Friday: 9AM – 4PM"
 ---
